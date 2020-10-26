@@ -1,0 +1,22 @@
+body, html {
+    font-family: miCustomFont !important;
+}
+
+.btn-success{
+    background-color: black !important;
+}
+
+.colorTextRed{
+    font-size: 200px;
+    color: red;
+}
+
+.colorTextGreen{
+    font-size: 200px;
+    color: green;
+}
+
+.colorTextYellow{
+    font-size: 200px;
+    color: yellow;
+}
